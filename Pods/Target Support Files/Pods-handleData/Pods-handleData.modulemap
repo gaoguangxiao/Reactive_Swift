@@ -1,0 +1,6 @@
+framework module Pods_handleData {
+  umbrella header "Pods-handleData-umbrella.h"
+
+  export *
+  module * { export * }
+}
